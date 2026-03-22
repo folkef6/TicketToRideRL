@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Training artifacts
+models/
+logs/
+
+# IDE / tools
+.idea/
+.vscode/
+.claude/
+
+# OS
+.DS_Store
+
+# Pytest
+.pytest_cache/
